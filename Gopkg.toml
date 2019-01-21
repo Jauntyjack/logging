@@ -47,7 +47,7 @@
 
 [[constraint]]
   branch = "master"
-  name = "sourcegraph.com/sourcegraph/appdash"
+  name = "github.com/sourcegraph/appdash"
 
 [prune]
   go-tests = true
